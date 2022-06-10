@@ -1,0 +1,15 @@
+Computer selected:paper
+User Selected:stone
+Computer Won.....at date and time 2022-03-18 07:34:12.595702
+User Requested For Source Code y
+---------------------------------------------------------------------
+Computer selected:stone
+User Selected:stone
+It Is A Tie....at date and time 2022-03-18 13:19:15.156605
+User Requested For Source Code  n
+---------------------------------------------------------------------
+Computer selected:scissor
+User Selected:paper
+Computer Won.....at date and time 2022-03-18 13:26:04.271003
+User Requested For Source Code  Y
+---------------------------------------------------------------------
