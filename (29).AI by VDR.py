@@ -32,13 +32,13 @@ def wishing():
 
 
 
-    speak("This VDR . How may i help you sir!!!!")
+    speak("This is VDR . How may i help you sir!!!!")
 
 def takeCommand():
     r=sr.Recognizer()
     with sr.Microphone() as source:
         print("LISTENING !!!!")
-        r.pause_threshold = 10
+        r.pause_threshold = 1
         audio = r.listen(source)
     try:
         print("RECOGNISING !!!!")
